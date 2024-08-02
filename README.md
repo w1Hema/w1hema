@@ -8,7 +8,6 @@
   <img src="/web/static/img/screenshots/homepage.gif" height=360
 </a>
 </div>
-
 <h4 align="center">
   <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
   •
