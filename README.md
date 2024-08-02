@@ -28,7 +28,7 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+I am a wanted person and I will definitely try to come to you
  
 [🎦 Video - Cyber ​​Security](https://www.youtube.com/watch?v=W4Cl6Lyendg)
 
