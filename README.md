@@ -1,19 +1,5 @@
 # 👋
 
-<?php
-if (!isset($_COOKIE['firsttime'])) //إذا كان المستخدم يزور الموقع لأول مرة
-{
-    setcookie("firsttime", "no", /*cookie قم بتحديد فترة إنتهاء ال  */);
-    header('Location: first-time.php');
-    exit();
-}
-else
-{
-    header('Location: index.php');
-    exit();
-}
-?>
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
